@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="G5-Java-Thread-Visibility-Java.png" alt="G5-Java-Thread-Visibility-Java" width="100%">
+  <img src="G5-Java-Thread-Visibility.png" alt="G5-Java-Thread-Visibility" width="100%">
 </p>
 
 # G5-Java-Thread-Visibility-Java
